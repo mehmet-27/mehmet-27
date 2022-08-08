@@ -1,4 +1,7 @@
-
+<h3>Contact:</h3>
+<ul>
+  <li>Discord: <a href="https://discord.com/users/966824431966105611" target"blank_">Mehmet#5073</a></li>
+</ul>
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
